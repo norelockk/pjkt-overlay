@@ -1,6 +1,8 @@
 # Projekt Community Overlay
 
-Designed to elevate the streaming experience for Projekt Community, this OBS overlay delivers a sleek, TV-style presentation. It includes:
+Designed to elevate the streaming experience for Projekt Community, this OBS overlay delivers a sleek, TV-style presentation.
+
+At this moment it includes:
 
 - **Main Header with Logo and Live Ticker**: A prominent header bar displays the Projekt Community logo alongside a dynamic live ticker. The ticker not only shows the current time but can also be customized for countdowns, stream updates, or event schedules. This feature creates a continuous sense of engagement, ensuring viewers stay updated on stream timing.
 
